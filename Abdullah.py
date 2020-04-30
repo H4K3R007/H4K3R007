@@ -69,7 +69,7 @@ def tik():
 
 
 back = 0
-Lovely Ok = []
+Ok = []
 After 7 Days = []
 okz = []
 ids = []
